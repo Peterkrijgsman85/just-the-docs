@@ -1,6 +1,6 @@
 ---
 title: LanTel Hosted - Firewall best practice
-layout: home
+layout: default
 ---
 # LanTel Hosted - Firewall best practice
 
