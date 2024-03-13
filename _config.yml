@@ -20,7 +20,7 @@ favicon_ico: "/assets/images/favicon.png"
 
 collections:
   # Define a collection named "tests", its documents reside in the "_tests" directory
-  Algemene informatie LanTel Cloud diensten:
+  Algemene-informatie-LanTel-Cloud-diensten:
     permalink: "/:collection/:path/"
     output: true
   Draadloze Headsets:
@@ -56,7 +56,7 @@ just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
     # Reference the collections
-    Algemene informatie LanTel Cloud diensten:
+    Algemene-informatie-LanTel-Cloud-diensten:
       # Give the collection a name
       name: Algemene informatie LanTel Cloud diensten
       # Exclude the collection from the navigation
