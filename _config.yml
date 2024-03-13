@@ -21,7 +21,7 @@ collections:
   Algemene informatie LanTel Cloud diensten:
     permalink: "/:collection/:path/"
     output: true
-  (Draadloze) Headsets:
+  Draadloze Headsets:
     permalink: "/:collection/:path/"
     output: true
   Aurora TeleQ:
@@ -59,55 +59,37 @@ just_the_docs:
       name: Algemene informatie LanTel Cloud diensten
       # Exclude the collection from the navigation
       # Supports true or false (default)
-      nav_exclude: false
+      # nav_exclude: false
       # Fold the collection in the navigation
       # Supports true or false (default)
       nav_fold: true  # note: this option is new in v0.4
       # Exclude the collection from the search
       # Supports true or false (default)
-      search_exclude: false
-    (Draadloze) Headsets:
+      # search_exclude: false
+    Draadloze Headsets:
       name: (Draadloze) Headsets
-      nav_exclude: false
       nav_fold: true
-      search_exclude: false
     Aurora TeleQ:
       name: Aurora TeleQ
-      nav_exclude: false
       nav_fold: true
-      search_exclude: false
     CloudCTI:
       name: CloudCTI
-      nav_exclude: false
       nav_fold: true
-      search_exclude: false
     E-Fax:
       name: E-Fax
-      nav_exclude: false
       nav_fold: true
-      search_exclude: false
     LanTel Blue - Univerge Blue:
       name: LanTel Blue - Univerge Blue
-      nav_exclude: false
       nav_fold: true
-      search_exclude: false
     LanTel Mobiel:
       name: LanTel Mobiel
-      nav_exclude: false
       nav_fold: true
-      search_exclude: false
     LanTel Move - Avaya:
       name:LanTel Move - Avaya
-      nav_exclude: false
       nav_fold: true
-      search_exclude: false
     LanTel Teams Bellen:
       name: LanTel Teams Bellen
-      nav_exclude: false
       nav_fold: true
-      search_exclude: false
     LanTel Wave - Enreach Contact:
       name: LanTel Wave - Enreach Contact
-      nav_exclude: false
       nav_fold: true
-      search_exclude: false
