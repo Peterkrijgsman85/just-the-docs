@@ -1,5 +1,5 @@
 ---
-title: 
+title: CloudCTI
 layout: default
 ---
 # :computer: CloudCTI
