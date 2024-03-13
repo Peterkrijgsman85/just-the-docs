@@ -1,3 +1,6 @@
+---
+title: Algemene informatie LanTel Cloud Diensten
+---
 # :information_source: Algemene informatie LanTel Cloud Diensten
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
