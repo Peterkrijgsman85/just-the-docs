@@ -1,5 +1,6 @@
 ---
 title: Algemene informatie LanTel Cloud Diensten
+published: true
 ---
 # :information_source: Algemene informatie LanTel Cloud Diensten
 
