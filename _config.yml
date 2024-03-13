@@ -15,3 +15,18 @@ logo: "/assets/images/logo.png"
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/favicon.png"
 
+collections:
+    collection-one:
+      permalink: "/:docs/:(Draadloze) Headsets/"
+      output: true
+    collection-two:
+      permalink: "/:docs/:Algemene informatie LanTel Cloud diensten/"
+      output: true
+  just_the_docs:
+    collections:
+      collection-one:
+        name: Collection One
+        nav_fold: true
+      collection-two:
+        name: Collection Two
+        nav_fold: false
