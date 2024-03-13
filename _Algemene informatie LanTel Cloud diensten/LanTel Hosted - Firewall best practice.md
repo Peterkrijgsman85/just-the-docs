@@ -1,3 +1,9 @@
+---
+title: LanTel Hosted - Firewall best practice
+layout: home
+---
+# LanTel Hosted - Firewall best practice
+
 In dit document staan een aantal best practice voorbeelden voor het gebruik van LanTel Hosted oplossingen in combinatie met een firewall/router welke niet door LanTel zelf is geleverd en beheerd wordt.
 
 <p class="callout info">Let erop dat termologie per merk kan verschillen. Dit document is niet bedoeld om aan te geven hoe een firewall exact moet worden ingericht, maar dient als richtlijn om te kijken naar instellingen welke mogelijk dienen te worden gewijzigd. Wat voor het ene merk firewall wel kan gelden is voor een ander merk weer niet aan de orde.   
