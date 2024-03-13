@@ -18,17 +18,17 @@ favicon_ico: "/assets/images/favicon.png"
 # Define Jekyll collections
 collections:
   # Define a collection named "tests", its documents reside in the "_tests" directory
-  tests:
+  Algemene informatie LanTel Cloud diensten:
     permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
-    # Reference the "tests" collection
-    tests:
+    # Reference the collections
+    Algemene informatie LanTel Cloud diensten:
       # Give the collection a name
-      name: Tests
+      name: Algemene informatie LanTel Cloud diensten
       # Exclude the collection from the navigation
       # Supports true or false (default)
       # nav_exclude: true
