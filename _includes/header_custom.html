@@ -26,6 +26,20 @@
   
   <a class="btn js-toggle-dark-mod"><svg width='18px'><use href="#svg-sun"></use></svg></a>
 
+  <script>
+    const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+    
+    jtd.addEvent(toggleDarkMode, 'click', function(){
+      if (jtd.getTheme() === 'dark') {
+        jtd.setTheme('light');
+        toggleDarkMode.textContent = '<svg width='18px'><use href="#svg-sun"></use></svg>';
+      } else {
+        jtd.setTheme('dark');
+        toggleDarkMode.textContent = '<svg width='18px'><use href="#svg-moon"></use></svg>';
+      }
+    });
+    </script>
+
 
   <button class="btn js-toggle-dark-mode">Dark</button>
 
