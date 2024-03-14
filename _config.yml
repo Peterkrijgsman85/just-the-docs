@@ -23,10 +23,10 @@ collections:
   Algemene-informatie-LanTel-Cloud-diensten:
     permalink: "/:collection/:path/"
     output: true
-  Draadloze Headsets:
+  Draadloze-Headsets:
     permalink: "/:collection/:path/"
     output: true
-  Aurora TeleQ:
+  Aurora-TeleQ:
     permalink: "/:collection/:path/"
     output: true
   CloudCTI:
@@ -35,19 +35,19 @@ collections:
   E-Fax:
     permalink: "/:collection/:path/"
     output: true
-  LanTel Blue - Univerge Blue:
+  LanTel-Blue-Univerge-Blue:
     permalink: "/:collection/:path/"
     output: true
-  LanTel Mobiel:
+  LanTel-Mobiel:
     permalink: "/:collection/:path/"
     output: true
-  LanTel Move - Avaya:
+  LanTel-Move-Avaya:
     permalink: "/:collection/:path/"
     output: true
-  LanTel Teams Bellen:
+  LanTel-Teams -Bellen:
     permalink: "/:collection/:path/"
     output: true
-  LanTel Wave - Enreach Contact:
+  LanTel-Wave-Enreach-Contact:
     permalink: "/:collection/:path/"
     output: true
 
@@ -68,10 +68,10 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       # search_exclude: false
-    Draadloze Headsets:
+    Draadloze-Headsets:
       name: (Draadloze) Headsets
       nav_fold: true
-    Aurora TeleQ:
+    Aurora-TeleQ:
       name: Aurora TeleQ
       nav_fold: true
     CloudCTI:
@@ -80,19 +80,19 @@ just_the_docs:
     E-Fax:
       name: E-Fax
       nav_fold: true
-    LanTel Blue - Univerge Blue:
+    LanTel-Blue-Univerge-Blue:
       name: LanTel Blue - Univerge Blue
       nav_fold: true
-    LanTel Mobiel:
+    LanTel-Mobiel:
       name: LanTel Mobiel
       nav_fold: true
-    LanTel Move - Avaya:
+    LanTel-Move-Avaya:
       name: LanTel Move - Avaya
       nav_fold: true
-    LanTel Teams Bellen:
+    LanTel-Teams-Bellen:
       name: LanTel Teams Bellen
       nav_fold: true
-    LanTel Wave - Enreach Contact:
+    LanTelWave-Enreach-Contact:
       name: LanTel Wave - Enreach Contact
       nav_fold: true
 
