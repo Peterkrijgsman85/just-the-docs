@@ -5,9 +5,7 @@ layout: home
 
 # :wave: Welkom
 
-Welkom op onze LanTel Cloud Wiki. Heb je een vraag over het gebruikt van jouw telefonieomgeving? Alle handige informatie en handleidingen voor jou als gebruiker van onze LanTel Cloud diensten vind je hier. Gewoon eenvoudig voor jou beschikbaar waar en wanneer je wilt. 
-
-### Ook dat is de service van LanTel!
+Welkom op onze LanTel Cloud Wiki. Heb je een vraag over het gebruikt van jouw telefonieomgeving? Alle handige informatie en handleidingen voor jou als gebruiker van onze LanTel Cloud diensten vind je hier. Gewoon eenvoudig voor jou beschikbaar waar en wanneer je wilt. **Ook dat is de service van LanTel!**
 
  
 {: .new-title }
