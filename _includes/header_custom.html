@@ -42,7 +42,7 @@
 -->    
 
 
-  <button class="btn js-toggle-dark-mode"><svg width='18px'><use href="#svg-sun"></use></svg>/<svg width='18px'><use href="#svg-moon"></use></svg></button>
+  <button class="btn js-toggle-dark-mode">:sun: / :cresent_moon:</button>
 
 <script>
 const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
@@ -50,10 +50,8 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 jtd.addEvent(toggleDarkMode, 'click', function(){
   if (jtd.getTheme() === 'dark') {
     jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Dark :+1:';
   } else {
     jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Light :+1:';
   }
 });
 </script>
