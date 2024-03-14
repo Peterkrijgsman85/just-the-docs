@@ -31,9 +31,6 @@ To create a heading, add one to six <kbd>#</kbd> symbols before your heading tex
 ## A second-level heading
 ### A third-level heading
 
-When you use two or more headings, GitHub automatically generates a table of contents that you can access by clicking {% octicon "list-unordered" aria-label="The unordered list icon" %} within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section.
-
-![Screenshot of the README file in the GitHub Docs open source repository with the drop-down menu for the table of contents exposed. The table of contents icon is outlined in dark orange.](/assets/images/help/repository/headings-toc.png)
 
 ## Styling text
 
