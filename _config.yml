@@ -7,6 +7,7 @@ url: https://peterkrijgsman85.github.io/just-the-docs/
 aux_links:
   LanTel Cloud Statuspagina: https://status.lantelcloud.nl
   LanTel Website: https://lantel.nl
+  Dark Theme: jtd.setTheme("dark")
 
 
 # Set a path/url to a logo that will be displayed instead of the title
