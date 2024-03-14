@@ -116,7 +116,7 @@ You can add emoji to your writing by typing `:EMOJICODE:`, a colon followed by t
 
 `@octocat :+1: This PR looks great - it's ready to merge! :shipit:`
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+:+1: This PR looks great - it's ready to merge! :shipit:
 
 Typing <kbd>:</kbd> will bring up a list of suggested emoji. The list will filter as you type, so once you find the emoji you're looking for, press **Tab** or **Enter** to complete the highlighted result.
 
@@ -165,3 +165,5 @@ Here are the rendered alerts:
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
+
+---
