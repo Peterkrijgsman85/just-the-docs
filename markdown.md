@@ -110,3 +110,14 @@ A footnote can also have multiple lines[^2].
   This is a second line.
 
 
+## Using emojis
+
+You can add emoji to your writing by typing `:EMOJICODE:`, a colon followed by the name of the emoji.
+
+`@octocat :+1: This PR looks great - it's ready to merge! :shipit:`
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+Typing <kbd>:</kbd> will bring up a list of suggested emoji. The list will filter as you type, so once you find the emoji you're looking for, press **Tab** or **Enter** to complete the highlighted result.
+
+For a full list of available emoji and codes, see [the Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
