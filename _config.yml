@@ -157,3 +157,22 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 
 plugins:
   - jemoji
+
+
+
+callouts:
+  highlight:
+    title: Highlight
+    color: red
+  important:
+    title: Important
+    color: red
+  new:
+    title: New
+    color: red
+  note:
+    title: Note
+    color: red
+  warning:
+    title: Warning
+    color: red
