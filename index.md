@@ -9,9 +9,9 @@ Welkom op onze LanTel Cloud Wiki. Heb je een vraag over het gebruikt van jouw te
 
 
 {: .note-title }
-TIP
-
-Gebruik de zoekfunctie om snel jou informatie te vinden!
+> TIP
+> 
+> Gebruik de zoekfunctie om snel jou informatie te vinden!
 
 
 {: .highlight }

@@ -163,16 +163,16 @@ plugins:
 callouts:
   highlight:
     title: Highlight
-    color: red
+    color: yellow
   important:
     title: Important
-    color: red
+    color: blue
   new:
     title: New
-    color: red
+    color: green
   note:
     title: Note
-    color: red
+    color: purple
   warning:
     title: Warning
     color: red
