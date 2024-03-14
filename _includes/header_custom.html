@@ -23,7 +23,7 @@
       </svg>
     </symbol>
   </svg>
-  
+ <!-- 
   <a class="btn js-toggle-dark-mod"><svg width='18px'><use href="#svg-sun"></use></svg></a>
 
   <script>
@@ -39,6 +39,7 @@
       }
     });
     </script>
+-->    
 
 
   <button class="btn js-toggle-dark-mode">Dark</button>
@@ -49,7 +50,7 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 jtd.addEvent(toggleDarkMode, 'click', function(){
   if (jtd.getTheme() === 'dark') {
     jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Dark';
+    toggleDarkMode.textContent = ':+1:';
   } else {
     jtd.setTheme('dark');
     toggleDarkMode.textContent = 'Light';
