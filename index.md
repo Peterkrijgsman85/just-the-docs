@@ -9,8 +9,8 @@ Welkom op onze LanTel Cloud Wiki. Heb je een vraag over het gebruikt van jouw te
 
 
 {: .note-title }
-> TIP
->
-> Gebruik de zoekfunctie om snel jou informatie te vinden!
+TIP
+
+Gebruik de zoekfunctie om snel jou informatie te vinden!
 
 Niet gevonden wat je zoekt? Neem contact op met onze afdeling 'klantenservice'. Dit kan eenvoudig per mail: servicedesk@lantel.nl, per telefoon: 078 630 55 55 of stuur ons eenvoudig een whatsapp berichtje: 078 630 55 55.
