@@ -44,7 +44,7 @@ collections:
   LanTel-Move-Avaya:
     permalink: "/:collection/:path/"
     output: true
-  LanTel-Teams -Bellen:
+  LanTel-Teams-Bellen:
     permalink: "/:collection/:path/"
     output: true
   LanTel-Wave-Enreach-Contact:
@@ -92,7 +92,7 @@ just_the_docs:
     LanTel-Teams-Bellen:
       name: LanTel Teams Bellen
       nav_fold: true
-    LanTelWave-Enreach-Contact:
+    LanTel-Wave-Enreach-Contact:
       name: LanTel Wave - Enreach Contact
       nav_fold: true
 
