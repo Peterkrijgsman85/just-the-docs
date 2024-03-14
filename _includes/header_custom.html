@@ -27,7 +27,7 @@
   <a class="js-toggle-dark-mod"><svg width='18px'><use href="#svg-sun"></use></svg></a>
 
 
-  <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+  <button class="btn js-toggle-dark-mode">moon</button>
 
 <script>
 const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
@@ -35,10 +35,10 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 jtd.addEvent(toggleDarkMode, 'click', function(){
   if (jtd.getTheme() === 'dark') {
     jtd.setTheme('light');
-    toggleDarkMode.textContent = '<svg width='18px'><use href="#svg-sun"></use></svg>';
+    toggleDarkMode.textContent = 'sun';
   } else {
     jtd.setTheme('dark');
-    toggleDarkMode.textContent = '<svg width='18px'><use href="#svg-sun"></use></svg>';
+    toggleDarkMode.textContent = 'moon';
   }
 });
 </script>
