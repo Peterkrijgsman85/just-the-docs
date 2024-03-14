@@ -70,7 +70,7 @@ just_the_docs:
       # Supports true or false (default)
       # search_exclude: false
     Draadloze-Headsets:
-      name: :headphones: (Draadloze) Headsets
+      name: (Draadloze) Headsets
       nav_fold: true
     Aurora-TeleQ:
       name: Aurora TeleQ
