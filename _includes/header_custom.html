@@ -42,7 +42,7 @@
 -->    
 
 
-  <button class="btn js-toggle-dark-mode">:+1:</button>
+  <button class="btn js-toggle-dark-mode">Dark :+1:</button>
 
 <script>
 const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
@@ -50,10 +50,10 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 jtd.addEvent(toggleDarkMode, 'click', function(){
   if (jtd.getTheme() === 'dark') {
     jtd.setTheme('light');
-    toggleDarkMode.textContent = ':+1:';
+    toggleDarkMode.textContent = 'Dark :+1:';
   } else {
     jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Light';
+    toggleDarkMode.textContent = 'Light +1';
   }
 });
 </script>
